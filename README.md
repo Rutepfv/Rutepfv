@@ -3,7 +3,7 @@
 
 - :bar_chart: I currently work with **Business development and Marketing Analytics** at **Pinheiro Neto Advogados**
 
-- 🌱 I’m currently learning **Phyton, SQL and Machine Learning**
+- 🌱 I’m currently learning **Phyton, MySQL and Machine Learning**
 
 - 💬 Ask me about **Power Bi, VBA, Google Data Studio and SQL**
 
