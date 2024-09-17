@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm a Data analytics and you can call me Rute</h1>
+<h1 align="center">Hi 👋, I'm a Data analyst and you can call me Rute</h1>
 <h3 align="center">I am passionate about data analysis and data storytelling</h3>
 
-- :bar_chart: I currently work with **Business development and Marketing Analytics** at **Pinheiro Neto Advogados**
+- :bar_chart: I currently work with **Data analysis and supply chain automation** at **GOL Linhas Aereas**
 
 - 🌱 I’m currently learning **Phyton, MySQL and Machine Learning**
 
-- 💬 Ask me about **Power Bi, VBA, Google Data Studio and SQL**
+- 💬 Ask me about **Power Bi, VBA, Google Data Studio, SQL, Microsoft Power Automate and Python**
 
 - 📫 How to reach me **Rute.paulaviana@gmail.com**
 
